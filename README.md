@@ -18,7 +18,7 @@
 
 ## Опубликованная версия
 
-Приложение доступно по ссылке: [GitHub Pages](https://ваш-username.github.io/ваш-репозиторий/)
+Приложение доступно по ссылке: [GitHub Pages](https://ornstein77.github.io/ToDoList/)
 
 ## Технология
 - Vue.js 
