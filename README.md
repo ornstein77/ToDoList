@@ -1,29 +1,25 @@
-# list
+# To-Do List на Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Простая страничка сайта с списком дел, созданное с помощью Vue
 
-## Recommended IDE Setup
+## To-Do List
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Это приложение позволяет:
+- Добавлять новые задачи
+- Отмечать выполненные задачи
+- Удалять задачи
+- Автоматически сохранять задачи 
 
-## Customize configuration
+## Как пользоваться
+1. Введите текст задачи в поле ввода
+2. Нажмите кнопку "Добавить" или клавишу Enter
+3. Для отметки задачи как выполненной:  кликните по тексту задачи
+4. Для удаления задачи нажмите кнопку "Удалить"
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Опубликованная версия
 
-## Project Setup
+Приложение доступно по ссылке: [GitHub Pages](https://ваш-username.github.io/ваш-репозиторий/)
 
-```sh
-npm install
-```
+## Технология
+- Vue.js 
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
